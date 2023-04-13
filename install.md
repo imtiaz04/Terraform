@@ -29,3 +29,9 @@ install terraform
 
 ![image](https://user-images.githubusercontent.com/85178565/231856345-478f2aa9-26a6-475a-b13c-d1c2c1b33a38.png)
 
+
+checking version
+
+![image](https://user-images.githubusercontent.com/85178565/231856690-2854a3af-0b86-48f3-a0fa-ef0bca2836da.png)
+
+
