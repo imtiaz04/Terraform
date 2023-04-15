@@ -46,5 +46,16 @@ adding values to a variable in a different way--keep variable empty & in globall
 ![image](https://user-images.githubusercontent.com/85178565/232248943-b3c2ab06-8dbb-4723-b2fd-c999ebf44c66.png)
 
 
+in main.tf file create output variable to call variables and then terraform apply
+
+![image](https://user-images.githubusercontent.com/85178565/232249171-e2f72099-753e-4080-bd9c-ac2a71f1db45.png)
+
+
+you can change variable value with out entering into file &change value you can change through export TF_VAR_<VARIABLE>=<VALUE>
+  
+  
+  ![image](https://user-images.githubusercontent.com/85178565/232249589-621fdd5f-a4e7-4d4d-b8f5-f661f5a07cd5.png)
+
+
 
 
