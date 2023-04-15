@@ -55,6 +55,20 @@ in main.tf added output
 ![image](https://user-images.githubusercontent.com/85178565/232253818-80bc94b0-d9da-47c0-874f-219c154ea498.png)
 
 
+json formett
+
+create vim prod.var.tfvars.json 
+
+![image](https://user-images.githubusercontent.com/85178565/232254139-42e8047b-673e-442b-8086-92815c3e3b3c.png)
+
+call in main.tf file
+
+![image](https://user-images.githubusercontent.com/85178565/232254187-509f0c6a-1cd7-4e5b-ab05-67e6ebf1e5b6.png)
+
+
+![image](https://user-images.githubusercontent.com/85178565/232254389-f43dc840-9c2a-4fc6-a689-04c0888cbd44.png)
+
+![image](https://user-images.githubusercontent.com/85178565/232254404-edbe7abc-352e-42d5-b17f-9b371f7062a2.png)
 
 
 
