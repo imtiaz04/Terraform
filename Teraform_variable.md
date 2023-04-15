@@ -36,3 +36,15 @@ terraform apply
 devops-autoated file generated
 
 ![image](https://user-images.githubusercontent.com/85178565/232247937-cdb1999d-62e1-4791-83f8-89a1a6865e2c.png)
+
+
+
+adding values to a variable in a different way--keep variable empty & in globally give value
+
+![image](https://user-images.githubusercontent.com/85178565/232248744-a2f5c26c-601b-446b-ab4d-bf88c173fb43.png)
+
+![image](https://user-images.githubusercontent.com/85178565/232248943-b3c2ab06-8dbb-4723-b2fd-c999ebf44c66.png)
+
+
+
+
