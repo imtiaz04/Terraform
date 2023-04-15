@@ -39,6 +39,22 @@ after terraform apply
 ![image](https://user-images.githubusercontent.com/85178565/232252968-9b68b161-7c1e-47e4-96a4-e260c99d3ebd.png)
 
 
+variable type =object
+
+in variable.tf file created variable with object where all types can add such as list, string, num
+
+![image](https://user-images.githubusercontent.com/85178565/232253383-b29964fd-cdab-4a8c-98f7-d3b17d6495bb.png)
+
+
+in main.tf added output 
+
+![image](https://user-images.githubusercontent.com/85178565/232253500-6a6232d6-45a5-48af-b494-e284a5ebc56b.png)
+
+
+
+![image](https://user-images.githubusercontent.com/85178565/232253818-80bc94b0-d9da-47c0-874f-219c154ea498.png)
+
+
 
 
 
