@@ -14,7 +14,7 @@ provider "aws" {
 region = "us-east-1"
 }
 locals {
-        instance_name = toset(["sam","shyam","amar","akbar"])
+        instance_name = toset(["sam","shyam","amar","akbar"]) #using map we can create diffrent user different os
 
 
 }
